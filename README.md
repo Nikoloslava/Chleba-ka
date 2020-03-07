@@ -1,2 +1,2 @@
-# Chleba-ka
+# Chlebarka
 Kuchařka na chleba.
