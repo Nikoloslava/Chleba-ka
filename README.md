@@ -1,2 +1,2 @@
-# Chlebarka
-Kuchařka na chleba.
+#Koronavirus
+informace, jak se ochránit před koronavirem
